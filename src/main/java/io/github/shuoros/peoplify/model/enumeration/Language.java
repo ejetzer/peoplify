@@ -7,7 +7,7 @@ import lombok.Getter;
 public enum Language {
 
     ENGLISH,
-	QUEBEC,
+    QUEBEC,
     PERSIAN;
 
     @JsonValue
